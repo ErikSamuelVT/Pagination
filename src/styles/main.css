@@ -1,0 +1,9 @@
+.display {
+    width: 50px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.w-card {
+    max-width: 18rem;
+}
